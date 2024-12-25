@@ -1,0 +1,46 @@
+name: nmr2struct
+channels:
+  - pytorch
+  - huggingface
+  - rdkit
+  - conda-forge
+  - dglteam
+dependencies:
+  - absl-py
+  - cudatoolkit
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - nlp
+  - optuna
+  - pandas
+  - pip
+  - pre_commit
+  - python=3.8
+  - pytorch
+  - rdkit
+  - regex
+  - s3fs
+  - scikit-learn
+  - scipy
+  - seaborn
+  - torchvision
+  - tqdm
+  - transformers
+  - wandb
+  - mordred
+  - rdkit
+  - ipykernel
+  - xgboost
+  - dgl
+  - pytorch
+  - polars
+  - torchdata
+  - pip:
+    - datasets
+    - deepchem>=2.4.0rc1.dev20200916050731
+    - simpletransformers
+    - tensorflow>=2.0
+    - torchsummary
+    - optuna-integration
