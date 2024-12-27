@@ -22,7 +22,7 @@
 
 Код, использованный в работе, частично основан на результатах, представленных в следующих репозиториях:
 
-https://github.com/MarklandGroup/NMR2Struct.git
+https://github.com/MarklandGroup/NMR2Struct
 
 https://github.com/devalab/DeepSPInN
 
